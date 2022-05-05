@@ -2,6 +2,10 @@ import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 
+//This is code provides the direct Java implementation of TicTacToe Game.
+//So, you can either copy the code and run it in an IDE or a online compiler.
+//Alternatively just clone the repository in your pc to run the code.
+
 public class TicTacToe {
 
 	public static void main(String[] args) {
